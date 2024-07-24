@@ -19,3 +19,7 @@
     height: 100px;
     flex: 1;
 }
+
+.active-pixel{
+    background-color: red;
+}
